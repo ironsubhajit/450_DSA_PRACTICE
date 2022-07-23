@@ -8,6 +8,7 @@ def fibonacci(num: int):
     Recursive function
     Time complexity: O(2^N)
     Space complexity: O(N)
+    Eg: fibonacci(3) = 2
     """
     if num <= 1:
         return num
