@@ -1,5 +1,14 @@
+"""
+Resource: Cracking the coding interview book
+"""
+
+
 def fibonacci(num: int):
-    """Recursive function"""
+    """
+    Recursive function
+    Time complexity: O(2^N)
+    Space complexity: O(N)
+    """
     if num <= 1:
         return num
     return fibonacci(num - 1) + fibonacci(num - 2)
