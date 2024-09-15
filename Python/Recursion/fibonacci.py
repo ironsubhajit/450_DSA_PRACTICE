@@ -22,3 +22,6 @@ if __name__ == '__main__':
 
     for i in range(no):
         print(fibonacci(i), end=" ")
+
+
+sell_price = 0.0
