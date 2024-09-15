@@ -1,3 +1,8 @@
+# problem type: Sliding window problem
+# code to find max sum of a subarray of size k
+# More optimized approach than slidingwindow01.py
+
+
 def get_max_sum_of_subarr(arr, window_size):
     
     # edge case 

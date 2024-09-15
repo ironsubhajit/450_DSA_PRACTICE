@@ -1,3 +1,6 @@
+# problem type: Sliding window problem
+# code to find max sum of a subarray of size k
+
 arr = [2, 3, 1, 1, 4, 3, 6, 7, 2]
 size_arr = 9
 window_size = 3
